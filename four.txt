@@ -1,7 +1,5 @@
-Lorem ipsum odor amet, consectetuer adipiscing elit. Phasellus commodo eleifend porta. Consectetur ridiculus semper mi.
-
-Dapibus habitant magnis dolor. Congue aliquam erat volutpat. Tempus donec quisque vel. Laoreet aliquet in.
-
-Facilisis nostra senectus porttitor. Senectus blandit aliquam justo. Lacinia nam at conubia. Euismod aenean ac maecenas sed.
-
-Sem magnis diam nunc. Etiam dictum fringilla elementum. Pharetra fames potenti penatibus. Ex sodales risus.
+ноль+один
+один+один
+два+один
+три+два
+пять

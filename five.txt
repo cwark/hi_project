@@ -1,9 +1,5 @@
-Lorem ipsum odor amet, consectetuer adipiscing elit. Est phasellus penatibus pharetra. Turpis litora ornare eget.
-
-Ullamcorper feugiat finibus mattis? Ad feugiat mus ante.
-
-Cubilia eget luctus in. Vehicula primis leo vitae dui. Varius fusce tellus nunc arcu.
-
-Dis neque nibh elementum ornare. Ridiculus eleifend montes felis.
-
-Euismod odio tristique lectus. Cubilia mi penatibus. Justo tempus lacus sit. Varius fringilla hac.
+один
+два
+три
+четыре
+пять
